@@ -1,0 +1,58 @@
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\appsettings.json
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\ConsumeThirdPartyApisDemo.staticwebassets.runtime.json
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\ConsumeThirdPartyApisDemo.exe
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\ConsumeThirdPartyApisDemo.deps.json
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\ConsumeThirdPartyApisDemo.runtimeconfig.json
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\ConsumeThirdPartyApisDemo.dll
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\ConsumeThirdPartyApisDemo.pdb
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.csproj.AssemblyReference.cache
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.AssemblyInfoInputs.cache
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.AssemblyInfo.cs
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.csproj.CoreCompileInputs.cache
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.RazorAssemblyInfo.cache
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.RazorAssemblyInfo.cs
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\staticwebassets\msbuild.ConsumeThirdPartyApisDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\staticwebassets\msbuild.build.ConsumeThirdPartyApisDemo.props
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ConsumeThirdPartyApisDemo.props
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ConsumeThirdPartyApisDemo.props
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\scopedcss\bundle\ConsumeThirdPartyApisDemo.styles.css
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.dll
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\refint\ConsumeThirdPartyApisDemo.dll
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.pdb
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.genruntimeconfig.cache
+C:\Users\fidan\Desktop\Movie Project\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ref\ConsumeThirdPartyApisDemo.dll
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\appsettings.json
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\ConsumeThirdPartyApisDemo.staticwebassets.runtime.json
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\ConsumeThirdPartyApisDemo.exe
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\ConsumeThirdPartyApisDemo.deps.json
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\ConsumeThirdPartyApisDemo.runtimeconfig.json
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\ConsumeThirdPartyApisDemo.dll
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\bin\Debug\net6.0\ConsumeThirdPartyApisDemo.pdb
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.csproj.AssemblyReference.cache
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.AssemblyInfoInputs.cache
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.AssemblyInfo.cs
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.csproj.CoreCompileInputs.cache
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.RazorAssemblyInfo.cache
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.RazorAssemblyInfo.cs
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\staticwebassets\msbuild.ConsumeThirdPartyApisDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\staticwebassets\msbuild.build.ConsumeThirdPartyApisDemo.props
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ConsumeThirdPartyApisDemo.props
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ConsumeThirdPartyApisDemo.props
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\scopedcss\bundle\ConsumeThirdPartyApisDemo.styles.css
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.dll
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\refint\ConsumeThirdPartyApisDemo.dll
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.pdb
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ConsumeThirdPartyApisDemo.genruntimeconfig.cache
+C:\Users\fidan\Desktop\ConsumeThirdPartyApisDemo\obj\Debug\net6.0\ref\ConsumeThirdPartyApisDemo.dll
